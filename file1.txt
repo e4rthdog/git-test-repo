@@ -1,5 +1,5 @@
 ONE Test1 -local2155
 TWO Change -local2155
-2045 - LOCAL2213
+2045 - LOCAL2213 -REMOTE 2213
 four change 2049 PC
 five change 2048 - remote2155
